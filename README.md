@@ -1,13 +1,18 @@
-# A simple Calculator
- A simple calculator using HTML, CSS &amp; Javascript
- ![title-pic](https://user-images.githubusercontent.com/39196039/40139639-27db8c64-596e-11e8-9537-04a5b5d07170.jpg)
- This is a simple calculator functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.
+# Calculator
+<a href="https://imgur.com/vbeEEyB"><img src="https://i.imgur.com/vbeEEyB.gif" title="source: imgur.com" /></a>
+**Description:**
+Are you tired of your calculator? Then this simple app will help you. It's colourful, powerful and simple to use. Don't forget that 2 * 2 may be **5!**
+### [LIVE](https://richboyscrytoo.github.io/Calculator/)
+**Technologies used:**
+ - HTML
+ - CSS
+ - JavaScript
  
-## Steps to execute this calculator:
-- Download the entire code 
-- Open up the index.html.
-
-## Technologies used: 
-- HTML
-- CSS [style/Presentation]
-- Javascript [Logic/Working of calculator]
+ **Steps to execute this project:**
+ - Download the entire code
+ 
+![](https://i.imgur.com/mzqjgS4.png)
+ - Open up the index.html.
+ 
+## Contact
+Created by Vladyslav Vasylenko - [here's my LinkedIn](https://www.linkedin.com/in/vladvasylenko/) - contact me anytime!
