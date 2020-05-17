@@ -1,7 +1,7 @@
 # Calculator
 <a href="https://imgur.com/vbeEEyB"><img src="https://i.imgur.com/vbeEEyB.gif" title="source: imgur.com" /></a>
 **Description:**
-Are you tired of your calculator? Then this simple app will help you. It's colourful, powerful and simple to use. Don't forget that 2 * 2 may be **5!**
+Have you also looked for a simple and stylish calculator? Check this one. It's colourful, powerful and simple to use. Don't forget that 2 * 2 may be **5!**
 ### [LIVE](https://richboyscrytoo.github.io/Calculator/)
 **Technologies used:**
  - HTML
