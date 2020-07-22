@@ -2,7 +2,7 @@
 <a href="https://imgur.com/vbeEEyB"><img src="https://i.imgur.com/vbeEEyB.gif" title="source: imgur.com" /></a>
 **Description:**
 Have you also looked for a simple and stylish calculator? Check this one. It's colourful, powerful and simple to use. Don't forget that 2 * 2 may be **5!**
-### [LIVE](https://vladyslav-vasylenko.github.io/Calculator/)
+### [LIVE](https://vladyslav.github.io/Calculator/)
 **Technologies used:**
  - HTML
  - CSS
